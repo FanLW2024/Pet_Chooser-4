@@ -1,4 +1,4 @@
 username = 'username'
-password = ''
-hostname = ''
-database = ''
+password = 'password'
+hostname = 'hostname'
+database = 'database'
